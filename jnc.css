@@ -1,0 +1,17 @@
+.jnck {
+    width: 200px;
+    height: 200px;
+    border: 1pt solid white;
+    border-radius: 70%;
+    margin-top: 15px;
+    margin-bottom: 15px;}
+body{
+    background-image: url(https://www.superprof.co.id/blog/wp-content/uploads/2021/04/panduan-untuk-belajar-menjahit.jpg) ;
+    background-position: center;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+}
